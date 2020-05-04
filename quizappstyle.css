@@ -1,0 +1,32 @@
+body 	{
+	font-family: monospace;
+	background-color: pink;
+	text-align: center;
+}
+header 	{
+	background-color: gray;
+	padding: 1.5rem;
+	color: hsla(150, 100%, 50%, 0.5);
+}
+h1 {
+	font-weight: bolder;
+}
+p {
+	font-size: 15pt;
+}
+#root {
+	border: 2px solid royalblue;
+	border-radius: 25px;
+	padding: 3.5rem;
+	width: 60%;
+	margin-left: 15%;
+	font-family: cursive;
+	background-color: hsla(300, 80%, 70%, 0.9);
+}
+button {
+	padding: 1.0rem;
+	font-size: 15pt;
+	font-weight: bolder;
+	color: hsla(350, 80%, 70%, 0.9);
+	border-radius: 25px;
+}
