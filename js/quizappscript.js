@@ -1,14 +1,29 @@
 
 const questions = [
 	{
-		question: 'Who created you and made you in his image?',
+		question: 'Who created the whole universe?',
 		options: [
 			{option: 'God', value: true}, {option: 'You', value: false}, {option: 'Man', value: false}, ],
 	},
 	{
-		question: 'Who created the houses?',
+		question: 'Who is the president of the Federal Republic of Nigeria?',
 		options: [
-			{option: 'Man', value: true}, {option: 'You', value: false}, {option: 'God', value: false}, ],
+			{option: 'Olusegun Obasanjo', value: false}, {option: 'Dora Akuyile', value: false}, {option: 'Rtd. Gen. Muhammod Buhari', value: true}, ],
+	},
+	{
+		question: '______ is the name of the capital of China?',
+		options: [
+			{option: 'Beijing', value: true}, {option: 'Hong Kong', value: false}, {option: 'Shanghai', value: false}, ],
+	},
+	{
+		question: 'Animals with feathers are called ______?',
+		options: [
+			{option: 'Birds', value: true}, {option: 'Reptiles', value: false}, {option: 'Amphibians', value: false}, ],
+	},
+	{
+		question: 'A verb that functions as a noun is a ______?',
+		options: [
+			{option: 'Phrase', value: false}, {option: 'Gerund', value: true}, {option: 'Idiom', value: false}, ],
 	},
 ];
 
